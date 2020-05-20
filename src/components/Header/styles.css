@@ -1,0 +1,31 @@
+.bgBlue {
+    background-color: #1E90FF;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.inputSearch {
+    width: 470px;
+    border: none;
+    display: flex;
+    border-radius: 20px;
+}
+
+.inputSearch::placeholder {
+    color: #adadad;
+}
+
+.imgLogo {
+    width: 160px;
+}
+
+.searchForm {
+    position: relative;
+}
+
+.searchIcon {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
