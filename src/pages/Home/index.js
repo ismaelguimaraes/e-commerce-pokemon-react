@@ -4,6 +4,8 @@ import ModalCart from '../../components/Modal';
 import Dashboard from '../../components/Layout/dashboard';
 import { connect } from 'react-redux';
 
+import '../../components/Header/styles.css';
+
 import { 
     ContainerColuna,
     FinalizarPedido,

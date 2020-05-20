@@ -5,6 +5,7 @@ import Logo from '../../images/logo.png'
 import { Card } from '../../components/Header/styles';
 import { connect } from 'react-redux';
 
+import '../../components/Header/styles.css';
 import ModalCart from '../../components/Modal';
 import DashboardFogo from '../../components/Layout/dashboardFogo';
 
